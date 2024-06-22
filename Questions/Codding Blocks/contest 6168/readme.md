@@ -1,4 +1,4 @@
-# Questions From contest : 6168
+# Problems From contest : 6168
 ---
 ## 1. Inverse Of Array
  Take as input N, a number. Take N more inputs and store that in an array. Write a recursive function which inverses the array. Print the values of inverted array
